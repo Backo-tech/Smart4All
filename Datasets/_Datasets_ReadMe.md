@@ -21,7 +21,7 @@ Characteristics:
 Characteristics: 
   6 features over Timestamp; 
   Sampling period: 1 month; 
-  2.633.172 instances
+  2.633.172 instances;
   IoT unit: Current Profiler;
   Observed machine: DECKEL MAHO DMU 50 EVO LINEAR Mill
   Features nomenclature:
@@ -39,7 +39,7 @@ Characteristics:
 Characteristics: 
   6 features over Timestamp; 
   Sampling period: 1 month; 
-  2.714.147 instances
+  2.714.147 instances;
   IoT unit: Current Profiler;
   Observed machine: HITACHI SEIKI VM-40 II CNC VERTICAL MILL
   Features nomenclature:
@@ -57,7 +57,7 @@ Characteristics:
 Characteristics: 
   6 features over Timestamp; 
   Sampling period: 1 month; 
-  2.557.383 instances
+  2.557.383 instances;
   IoT unit: Current Profiler;
   Observed system: Solar Photovoltaic electricity generation for manufacturing purposes
   Features nomenclature:
@@ -75,7 +75,7 @@ Characteristics:
   Characteristics: 
   12 features over Timestamp; 
   Sampling period: 1 month; 
-  431.651 instances
+  431.651 instances;
   IoT unit: Thermal Cube;
   Observed system: Atlas Copco GA11 air compressor & Compressor room
   Features nomenclature:
@@ -96,24 +96,42 @@ Characteristics:
 
  # TC_Office Dataset
   
-  Characteristics: 
+  Characteristics:
+  
   12 features over Timestamp; 
+  
   Sampling period: 1 month; 
-  353.534 instances
+  
+  353.534 instances;
+  
   IoT unit: Thermal Cube;
+  
   Observed system: Office space
+  
   Features nomenclature:
+  
       P1(°C) - Temperature probe (Room Air),
+      
       P2(°C) - Temperature probe (Room Air),
+      
       P3(°C) - Temperature probe (Room Air),
+      
       P4(°C) - Temperature probe (Room Air),
+      
       P5(°C) - Temperature probe (Room Air),
+      
       P6(°C) - Temperature probe (Room Air),
+      
       P7(°C) - Temperature probe (Room Air),
+      
       P8(°C) - Temperature probe (Room Air),
+      
       AHTt(°C) - Humid Air Temperature,
+      
       AHTrh(%) - Humid Air relative Humidity,
+      
       BMPp(kPa) - Humid Air Pressure,
+      
       RTCt(°C) - InDevice Temperature from RTC chip
       
 ========================================================
