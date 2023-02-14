@@ -1,6 +1,6 @@
 # CP_AtlasCopco Dataset
 
-Characteristics: 
+Characteristics:
   6 features over Timestamp; 
   Sampling period: 1 month; 
   2.620.764 instances; 
