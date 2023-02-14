@@ -3,6 +3,7 @@ SMART4ALL - Knowledge Transfer Experiment (KTE) – Call 3
 
 
 Project name: Convergence of conventional manufacturing system to smart & sensible environment
+
 Project Acronym: (CCMSS&SE)
 
 # Knowledge Transfer description
