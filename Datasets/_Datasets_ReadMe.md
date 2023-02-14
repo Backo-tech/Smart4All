@@ -1,11 +1,13 @@
 # CP_AtlasCopco Dataset
 
 Characteristics:
+
   6 features over Timestamp; 
   Sampling period: 1 month; 
   2.620.764 instances; 
   IoT unit: Current Profiler;
   Observed machine: Atlas Copco GA11 air compressor
+  
   Features nomenclature:
       S1(A) - Electric current of the first phase,
       S2(A) - Electric current of the second phase,
